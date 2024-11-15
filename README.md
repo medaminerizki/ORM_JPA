@@ -7,4 +7,4 @@
 <h2>Affichage de tous les produits disponibles via l'API</h2>
 <img src="Screenshots/res_api.png">
 <h2>Affichage d'un produit spécifique avec son ID via l'API</h2>
-<img src="Screenshots/findbyid_api.png">
+<img src="Screenshots/finbyid_api.png">
