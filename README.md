@@ -3,8 +3,8 @@
 <h2>Affichage des produits dans MySQL via PHPMyAdmin</h2>
 <img src="Screenshots/affichage_sql.png">
 <h2>Affichage des résultats des opérations en console</h2>
-<img src="Screenshots/res_console">
+<img src="Screenshots/res_console.png">
 <h2>Affichage de tous les produits disponibles via l'API</h2>
-<img src="Screenshots/res_api">
+<img src="Screenshots/res_api.png">
 <h2>Affichage d'un produit spécifique avec son ID via l'API</h2>
-<img src="Screenshots/findbyid.png">
+<img src="Screenshots/findbyid_api.png">
